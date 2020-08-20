@@ -6,7 +6,7 @@ Ditch is a password cracker which works based on dictionary attack using rockyou
 1. Clone this repository :<br />
 `git clone https://github.com/kevinadhiguna/ditch.git`
 2. Download `rockyou.txt` [here](https://bit.ly/2CNcfxs).
-3. Place `rockyou.txt` in the same folder or directory where you cloned this repository. 
+3. Place `rockyou.txt` in the same folder or directory where you cloned this repository.
 4. Install dependencies :<br />
 `pip install -r requirements.txt` or `pip3 install -r requirements.txt`
 5. Run this program :<br />
