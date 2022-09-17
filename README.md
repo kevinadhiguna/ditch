@@ -16,4 +16,4 @@ Note: You can also run it with python3. In case of that, just replace `python` w
 ### Notes
 **Educational purpose only. I cannot be held responsible for any misuse of the given information**.
 
-[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/ditch)](https://github.com/kevinadhiguna)
+![Hello !](https://api.visitorbadge.io/api/VisitorHit?user=kevinadhiguna&repo=ditch&label=thanks%20for%20dropping%20in%20!&labelColor=%23000000&countColor=%23FFFFFF)
